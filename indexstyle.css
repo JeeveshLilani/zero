@@ -1,0 +1,14 @@
+
+.first{
+	background-image:url(gift.jpeg);
+	background-size:screenfit ;
+}
+
+.second{
+	background-image:url(gift.jpeg);
+	background-size:screenfit ;
+}
+
+.third{
+	background-color:pink ;
+}
